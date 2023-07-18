@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center;">
   <p style="flex: 1;">Seja bem-vindo(a) ao meu perfil! Vamos embarcar juntos em uma jornada incrível da programação, explorando, aprendendo e crescendo como desenvolvedores 💻🌟. Entre em contato e vamos compartilhar o entusiasmo pela programação! 😄✨</p>
-  <img src="https://media.tenor.com/1mwdqr51emcAAAAC/test-typing.gif" width="550" height="300" alt="Gif"/>
+  <img src="https://media.tenor.com/8wBCqZH60U8AAAAC/computer-cat.gif" width="550" height="300" alt="Gif"/>
 </div>
 
 ## Tecnologias Utilizadas 💻

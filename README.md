@@ -21,7 +21,7 @@
 <a href = "mailto:carolvaz98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## Curiosidades ⚡ <img src="https://media.tenor.com/oxcXjvGW--YAAAAi/switch-cute.gif"/>
+## Curiosidades ⚡ <img src="https://media.tenor.com/oxcXjvGW--YAAAAi/switch-cute.gif" width="10"/>
 
 ⚡ Curiosidade: Além de mergulhar no mundo da programação, sou uma gamer entusiasta! Sempre que posso, dedico um tempo para explorar novos jogos e me aventurar em mundos virtuais. Afinal, aprender sobre novas tecnologias é fascinante, mas também é importante equilibrar com momentos de diversão e entretenimento. 😄🎮
 

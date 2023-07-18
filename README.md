@@ -22,7 +22,7 @@
 
 ## Curiosidades <img src="https://media.tenor.com/oxcXjvGW--YAAAAi/switch-cute.gif" width="50"/>
 
-⚡ Curiosidade: Além de mergulhar no mundo da programação, sou uma gamer entusiasta! Sempre que posso, dedico um tempo para explorar novos jogos e me aventurar em mundos virtuais. Afinal, aprender sobre novas tecnologias é fascinante, mas também é importante equilibrar com momentos de diversão e entretenimento. 😄🎮
+Além de mergulhar no mundo da programação, sou uma gamer entusiasta! Sempre que posso, dedico um tempo para explorar novos jogos e me aventurar em mundos virtuais. Afinal, aprender sobre novas tecnologias é fascinante, mas também é importante equilibrar com momentos de diversão e entretenimento. 😄🎮
 
 ## Conclusão 🎉
 

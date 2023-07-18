@@ -1,12 +1,12 @@
-# Olá! 👋 Sou a Carol Vaz
+# Olá! Sou a Carol Vaz 👋
 
-## Seja bem-vindo(a) ao meu perfil! Vamos embarcar juntos em uma jornada incrível da programação, explorando, aprendendo e crescendo como desenvolvedores 💻🌟. Entre em contato e vamos compartilhar o entusiasmo pela programação! 😄✨
+Seja bem-vindo(a) ao meu perfil! Vamos embarcar juntos em uma jornada incrível da programação, explorando, aprendendo e crescendo como desenvolvedores 💻🌟. Entre em contato e vamos compartilhar o entusiasmo pela programação! 😄✨
 
 ## Tecnologias Favoritas 💻
-![JavaScript](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fjs_5968292&psig=AOvVaw0QL50Fv9Mam2iX3Px1OGX5&ust=1689785982246000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCPizorzdmIADFQAAAAAdAAAAABAO)
-- Node.js
-- HTML5
-- CSS3
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
 ## Como Entrar em Contato 📫
 

@@ -1,9 +1,10 @@
 # Olá! Sou a Carol Vaz 👋
 
 Seja bem-vindo(a) ao meu perfil! Vamos embarcar juntos em uma jornada incrível da programação, explorando, aprendendo e crescendo como desenvolvedores 💻🌟. Entre em contato e vamos compartilhar o entusiasmo pela programação! 😄✨
+
 ![Snake animation](https://github.com/carolvaz98/carolvaz98/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://tenor.com/pt-BR/view/coraje-el-perro-cobarde-saludando-courage-the-cowardly-dog-smile-hi-leone-il-cane-fifone-gif-26795595" alt="apresentacao"/>
+<div class="tenor-gif-embed" data-postid="26795595" data-share-method="host" data-aspect-ratio="1.35593" data-width="100%"><a href="https://tenor.com/view/coraje-el-perro-cobarde-saludando-courage-the-cowardly-dog-smile-hi-leone-il-cane-fifone-gif-26795595">Coraje El Perro Cobarde Saludando Courage The Cowardly Dog Smile Hi GIF</a>from <a href="https://tenor.com/search/coraje+el+perro+cobarde+saludando-gifs">Coraje El Perro Cobarde Saludando GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Tecnologias Utilizadas 💻
 <div style="display: inline-block;">

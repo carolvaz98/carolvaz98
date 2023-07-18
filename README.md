@@ -1,6 +1,6 @@
 ## Olá! Sou a Carol 🤟
 <div style="display: flex; align-items: center;">
-  <p style="flex: 1;">Seja muito bem-vindo(a) ao meu perfil! Sou de São Paulo 🇧🇷 e tenho 24 anos. Aqui, vamos embarcar juntos em uma jornada incrível da programação, explorando, aprendendo e crescendo como desenvolvedores 💻🌟. Estou sempre empolgada para compartilhar o entusiasmo pela programação e trocar ideias com pessoas apaixonadas pela tecnologia! Vamos nos conectar e construir projetos inspiradores! ✨</p>
+  <p style="flex: 1;">Seja muito bem-vindo(a) ao meu perfil! Sou de São Paulo 🇧🇷 e tenho 24 anos. Aqui, vamos embarcar juntos em uma jornada incrível da programação, explorando, aprendendo e crescendo como desenvolvedores 💻🌟.</p>
   <img src="https://media.tenor.com/8wBCqZH60U8AAAAC/computer-cat.gif" width="500" height="250" alt="Gif"/>
 </div>
 

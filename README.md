@@ -25,6 +25,10 @@
 
 ⚡ Curiosidade: Além de mergulhar no mundo da programação, sou uma gamer entusiasta! Sempre que posso, dedico um tempo para explorar novos jogos e me aventurar em mundos virtuais. Afinal, aprender sobre novas tecnologias é fascinante, mas também é importante equilibrar com momentos de diversão e entretenimento. 😄🎮
 
+## Conclusão 🎉
+
+Obrigada por visitar o meu perfil! Fico muito feliz em compartilhar com vocês a minha paixão pela programação e pelas tecnologias que fazem parte desse incrível universo 💻🌟.
+
 <div>
   <img src="https://media.tenor.com/7pe_prgmBT4AAAAC/cat-black-cat.gif" width="350" height="300" alt="gifinal"/>
 </div>

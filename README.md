@@ -1,8 +1,10 @@
 # Olá! Sou a Carol Vaz 👋 
-Seja bem-vindo(a) ao meu perfil! Vamos embarcar juntos em uma jornada incrível da programação, explorando, aprendendo e crescendo como desenvolvedores 💻🌟. Entre em contato e vamos compartilhar o entusiasmo pela programação! 😄✨
-<div>
-  <img src="https://media.tenor.com/01liHPUMFooAAAAC/coraje-el-perro-cobarde-saludando-courage-the-cowardly-dog-smile-hi.gif" width="350" heigth="300" alt="Gif"/>
+
+<div style="display: flex; align-items: center;">
+  <p style="flex: 1;">Seja bem-vindo(a) ao meu perfil! Vamos embarcar juntos em uma jornada incrível da programação, explorando, aprendendo e crescendo como desenvolvedores 💻🌟. Entre em contato e vamos compartilhar o entusiasmo pela programação! 😄✨</p>
+  <img src="https://media.tenor.com/01liHPUMFooAAAAC/coraje-el-perro-cobarde-saludando-courage-the-cowardly-dog-smile-hi.gif" width="350" height="300" alt="Gif"/>
 </div>
+
 
 ## Tecnologias Utilizadas 💻
 <div style="display: inline-block;">

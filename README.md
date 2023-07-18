@@ -26,7 +26,7 @@
 ⚡ Curiosidade: Além de mergulhar no mundo da programação, sou uma gamer entusiasta! Sempre que posso, dedico um tempo para explorar novos jogos e me aventurar em mundos virtuais. Afinal, aprender sobre novas tecnologias é fascinante, mas também é importante equilibrar com momentos de diversão e entretenimento. 😄🎮
 
 <div>
-  <img src="https://media.tenor.com/9ItR8nSuxE0AAAAC/thumbs-up-computer.gif" width="350" height="300" alt="final"/>
+  <img src="https://media.tenor.com/8wBCqZH60U8AAAAC/computer-cat.gif" width="350" height="300" alt="gifinal"/>
 </div>
 
 

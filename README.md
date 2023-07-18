@@ -1,8 +1,9 @@
 # Olá! Sou a Carol Vaz 👋 
-<div style="display: flex; align-items: center;">
-  <img src="https://media.tenor.com/k8GM9XPT47MAAAAd/dog-puppy.gif" width="200" alt="Gif de um cachorrinho fofo">
-  <p style="margin-left: 100px;">Seja bem-vindo(a) ao meu perfil! Vamos embarcar juntos em uma jornada incrível da programação, explorando, aprendendo e crescendo como desenvolvedores 💻🌟. Entre em contato e vamos compartilhar o entusiasmo pela programação! 😄✨</p>
+<div>
+  <img src="https://media.tenor.com/k8GM9XPT47MAAAAd/dog-puppy.gif" width="200" alt="Gif de um cachorrinho fofo"/>
 </div>
+
+Seja bem-vindo(a) ao meu perfil! Vamos embarcar juntos em uma jornada incrível da programação, explorando, aprendendo e crescendo como desenvolvedores 💻🌟. Entre em contato e vamos compartilhar o entusiasmo pela programação! 😄✨
 
 ## Tecnologias Utilizadas 💻
 <div style="display: inline-block;">

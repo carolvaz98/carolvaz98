@@ -5,7 +5,7 @@ Seja bem-vindo(a) ao meu perfil! Vamos embarcar juntos em uma jornada incrível 
 ![Snake animation](https://github.com/carolvaz98/carolvaz98/blob/output/github-contribution-grid-snake.svg)
 
 <div>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Flaptop-5%2F&psig=AOvVaw0nFfCl9hDDnaBk8pT8Yo9p&ust=1689791250965000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCPCuxozxmIADFQAAAAAdAAAAABAr"/>
+  <img src="https://tenor.com/pt-BR/view/cats-cat-computer-gif-15556901"/>
 </div>
 
 ## Tecnologias Utilizadas 💻

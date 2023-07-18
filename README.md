@@ -2,7 +2,7 @@
 
 Seja bem-vindo(a) ao meu perfil! Vamos embarcar juntos em uma jornada incrível da programação, explorando, aprendendo e crescendo como desenvolvedores 💻🌟. Entre em contato e vamos compartilhar o entusiasmo pela programação! 😄✨
 <div>
-  <img src="https://media.tenor.com/k8GM9XPT47MAAAAd/dog-puppy.gif" width="150"/>
+  <img src="https://media.tenor.com/k8GM9XPT47MAAAAd/dog-puppy.gif" width="200"/>
 </div>
 
 ## Tecnologias Utilizadas 💻

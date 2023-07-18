@@ -1,4 +1,4 @@
-# Olá! Sou a Carol Vaz 👋 <img src="https://media.tenor.com/BKA6WA2IvPUAAAAi/hi-there.gif" width="50"/>
+# Olá! Sou a Carol Vaz 👋 <img src="https://media.tenor.com/eAMUkuktKvQAAAAi/creucat-wave.gif" width="50"/>
 
 <div style="display: flex; align-items: center;">
   <p style="flex: 1;">Seja bem-vindo(a) ao meu perfil! Vamos embarcar juntos em uma jornada incrível da programação, explorando, aprendendo e crescendo como desenvolvedores 💻🌟. Entre em contato e vamos compartilhar o entusiasmo pela programação! 😄✨</p>

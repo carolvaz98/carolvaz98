@@ -1,4 +1,4 @@
-# Olá! Sou a Carol Vaz 👋 
+# Olá! Sou a Carol Vaz 👋 <img src="https://media.tenor.com/BKA6WA2IvPUAAAAi/hi-there.gif" width="50"/>
 
 <div style="display: flex; align-items: center;">
   <p style="flex: 1;">Seja bem-vindo(a) ao meu perfil! Vamos embarcar juntos em uma jornada incrível da programação, explorando, aprendendo e crescendo como desenvolvedores 💻🌟. Entre em contato e vamos compartilhar o entusiasmo pela programação! 😄✨</p>
@@ -25,7 +25,7 @@
 
 ⚡ Curiosidade: Além de mergulhar no mundo da programação, sou uma gamer entusiasta! Sempre que posso, dedico um tempo para explorar novos jogos e me aventurar em mundos virtuais. Afinal, aprender sobre novas tecnologias é fascinante, mas também é importante equilibrar com momentos de diversão e entretenimento. 😄🎮
 
-## Conclusão 🎉 <img src="https://media.tenor.com/Vw2sr_UWA6cAAAAi/pepo-party-celebrate.gif" width="50"/>
+## Conclusão 🎉
 
 Obrigada por visitar o meu perfil! Fico muito feliz em compartilhar com vocês a minha paixão pela programação e pelas tecnologias que fazem parte desse incrível universo 💻🌟.
 

@@ -3,7 +3,7 @@
 Seja bem-vindo(a) ao meu perfil! Vamos embarcar juntos em uma jornada incrível da programação, explorando, aprendendo e crescendo como desenvolvedores 💻🌟. Entre em contato e vamos compartilhar o entusiasmo pela programação! 😄✨
 ![Snake animation](https://github.com/carolvaz98/carolvaz98/blob/output/github-contribution-grid-snake.svg)
 
-https://tenor.com/pt-BR/view/coraje-el-perro-cobarde-saludando-courage-the-cowardly-dog-smile-hi-leone-il-cane-fifone-gif-26795595
+<img src="https://tenor.com/pt-BR/view/coraje-el-perro-cobarde-saludando-courage-the-cowardly-dog-smile-hi-leone-il-cane-fifone-gif-26795595" alt="apresentacao"/>
 
 ## Tecnologias Utilizadas 💻
 <div style="display: inline-block;">

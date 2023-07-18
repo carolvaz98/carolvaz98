@@ -29,7 +29,7 @@
 Obrigada por visitar o meu perfil! Fico muito feliz em compartilhar com vocês a minha paixão pela programação e pelas tecnologias que fazem parte desse incrível universo 🌎💻.
 
 <div>
-  <img src="https://media.tenor.com/7pe_prgmBT4AAAAC/cat-black-cat.gif" width="450" height="300" alt="gifinal"/>
+  <img src="https://media.tenor.com/7pe_prgmBT4AAAAC/cat-black-cat.gif" width="400" height="250" alt="gifinal"/>
 </div>
 
 

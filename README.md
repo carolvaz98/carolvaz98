@@ -25,3 +25,8 @@
 
 ⚡ Curiosidade: Além de mergulhar no mundo da programação, sou uma gamer entusiasta! Sempre que posso, dedico um tempo para explorar novos jogos e me aventurar em mundos virtuais. Afinal, aprender sobre novas tecnologias é fascinante, mas também é importante equilibrar com momentos de diversão e entretenimento. 😄🎮
 
+<div>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Flaptop-5%2F&psig=AOvVaw0nFfCl9hDDnaBk8pT8Yo9p&ust=1689791250965000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCPCuxozxmIADFQAAAAAdAAAAABAr" width="350" height="300" alt="Gif"/>
+</div>
+
+

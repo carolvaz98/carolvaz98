@@ -15,7 +15,7 @@ Seja bem-vindo(a) ao meu perfil! Vamos embarcar juntos em uma jornada incrível 
 ## Como Entrar em Contato 📫
 <div>
 <a href="https://www.linkedin.com/in/caroline-v-b95019121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:carolvas98@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:carolvaz98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ## Estatísticas do GitHub 📈
